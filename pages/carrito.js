@@ -1,6 +1,6 @@
 import Layout from "./../components/Layout";
 import styles from "../styles/Carrito.module.css";
-import Image from "next/Image";
+import Image from "next/image";
 import { useState, useEffect } from "react";
 const Carrito = ({ carrito, actualizarCantidad, eliminarProducto }) => {
   const [total, setTotal] = useState(0);

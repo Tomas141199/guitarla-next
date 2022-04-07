@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import Image from "next/Image";
+import Image from "next/image";
 import styles from "../../styles/Guitarra.module.css";
 import { useState } from "react";
 

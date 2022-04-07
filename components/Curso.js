@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 import styles from "../styles/Curso.module.css";
 
 const Curso = ({ cursos }) => {

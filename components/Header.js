@@ -1,6 +1,6 @@
-import Link from "next/Link";
+import Link from "next/link";
 import styles from "../styles/Header.module.css";
-import Image from "next/Image";
+import Image from "next/image";
 import { useRouter } from "next/router";
 
 const Header = ({ guitarra }) => {

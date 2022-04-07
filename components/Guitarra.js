@@ -1,5 +1,5 @@
-import Image from "next/Image";
-import Link from "next/Link";
+import Image from "next/image";
+import Link from "next/link";
 import styles from "../styles/Guitarra.module.css";
 
 const Guitarra = ({ guitarra }) => {

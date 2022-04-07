@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import Image from "next/Image";
+import Image from "next/image";
 import styles from "../styles/Nosotros.module.css";
 import Fade from "react-reveal/Fade";
 const Nosotros = () => {

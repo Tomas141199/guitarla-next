@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 import Image from "next/Image";
 import styles from "../styles/Entrada.module.css";
 
